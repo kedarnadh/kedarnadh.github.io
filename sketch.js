@@ -39,7 +39,7 @@ function draw() {
 
 
   /* text thats to be displayed */
-  text(" KedarNadh Reddy", 330, 325);
+  text(" Built with P5 JS", 330, 325);
   
 
   
